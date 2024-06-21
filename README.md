@@ -17,7 +17,7 @@
   - [:memo: License ](#-license-a-namelicensea)
 
    # :book: Ello Engineering Challenge<a name="about-project"></a>
-  - 
+  - This repository contains the development of a teacher-facing user interface (UI) component for the Ello web viewer product. Specifically, it focuses on the book assignment view, providing teachers with the ability to assign books to students.
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 ### Tech Stack <a name="tech-stack"></a>
 - HTML
@@ -28,7 +28,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
  ### Key Features <a name="key-features"></a>
-- Search Bar: Enables teachers to search for books by title.
 
 - Search Results: Displays book titles, authors, and an option to add books to the reading list.
 
